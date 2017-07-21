@@ -3,4 +3,5 @@ include 'datasource-decorator-spring-boot-autoconfigure'
 include 'p6spy-spring-boot-starter'
 include 'datasource-proxy-spring-boot-starter'
 include 'flexy-pool-spring-boot-starter'
+include 'datasource-decorator-benchmark'
 
